@@ -144,13 +144,6 @@ Run the following command from the repository root:
 uv sync
 ```
 
-Activate the preconfigured Python virtual environment before running any scripts.
-
-```bash
-source venv/bin/activate
-```
----
-
 ###Local Visual Benchmarks
 
 ```bash

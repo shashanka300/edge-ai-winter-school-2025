@@ -132,6 +132,7 @@ python3 bench.py
 ---
 
 ### Environment Setup
+Run this in your loacl machine
 
 ```bash
 git clone <REPO_URL>
